@@ -1,0 +1,138 @@
+
+a img
+{
+    border: 0;
+}
+body
+{
+    background: #c8c3c3;
+    color: #000000;
+    font-family: sans-serif;
+    margin: 0;
+    
+}
+
+div#bottom
+{
+    margin: 1em;
+    text-align: center;
+}
+
+
+div#middle
+{
+    text-align: center;
+}
+
+
+div#top
+{
+    text-align: center;
+}
+
+
+form
+{
+    margin: 0;
+}
+
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td
+{
+    border: 0;
+}
+
+action
+{
+ text-align: left;
+}
+
+div#jacare
+{
+    margin: 9em;
+    text-align: center;
+}
+td, th
+{
+    padding: 11px;
+}
+
+.dados
+{
+    position: absolute;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.719);
+    border-radius: 8px;
+    padding-right: 1%;
+    padding-block-end: 100%;
+    td{
+    text-align: left;
+     margin-top: 20px;
+     background-color: rgba(254, 224, 92, 0.801);
+     border-radius: 16px;
+
+    }
+    table{
+        position: relative;
+        margin-top: 30px;
+        
+    }
+    
+
+}
+a {
+        color: #000000; 
+    }
+
+#quote
+{
+    position: absolute;
+     left: 20px; 
+}
+
+.outer-table {
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 16%;
+    border-collapse: collapse;
+    background-color: #575649d8;
+    border:7px solid #575649d8;
+    border-radius: 17px;
+
+}
+
+.outer-cell {
+    padding: 10px;
+    background-color: #57564900;
+    border-radius: 17px;
+    
+}
+
+.inner-table {
+    background-color: #fff263;
+    width: 250px;
+    border-collapse: collapse;
+    border-radius: 17px;
+}
+
+.inner-table td {
+    padding: 5px;
+}
+
+.logextrato{
+    text-align: center;
+    margin-left: 16%;
+    margin-right: 10%;
+    top: 15%;
+    left: 13%;
+    background-color: #575649d8;
+    border:7px solid #333331d8;
+    border-radius: 14px;
+    color:rgb(242, 255, 97);
+}
